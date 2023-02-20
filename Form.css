@@ -1,0 +1,7 @@
+.rk {
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  flex-direction: column;
+}
